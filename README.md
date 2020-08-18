@@ -1,2 +1,2 @@
 # Ball_On_The_Wall
-Project being made while learning the basics of Unity.
+WebGL version of private project made in Unity. It is a simple game, done in order to help me study the basics of the Unity.
