@@ -1,0 +1,16 @@
+{
+"companyName": "dduy",
+"productName": "Ball On The Wall",
+"productVersion": "0.1",
+"dataUrl": "Ball_On_The_Wall.data.unityweb",
+"wasmCodeUrl": "Ball_On_The_Wall.wasm.code.unityweb",
+"wasmFrameworkUrl": "Ball_On_The_Wall.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#3A807A",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.7f1"
+}
